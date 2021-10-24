@@ -1,11 +1,5 @@
 ### Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="28px">,
 
-<a href="https://www.linkedin.com/in/parithoshpoojary/" target="_blank">
-  <img align="left" alt="Parithosh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=parithoshpoojary.parithoshpoojary)
-
 ### Hi, I'm [Parithosh Poojary](#).
 
 #### I love learning new stuff and building things.
