@@ -1,22 +1,14 @@
-### Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="28px">,
+<a href="https://twitter.com/thePPoojary" target="_blank" rel="nofollow"><img align="right" alt="Parithosh's Twitter" width="22px" src="https://ico.vercel.app/twitter/ffffff" /></a><a href="https://www.linkedin.com/in/parithoshpoojary/" target="_blank" rel="nofollow"><img align="right" alt="Parithosh's Linkdein" width="22px" src="https://ico.vercel.app/linkedin/ffffff" /></a>
 
-### Hi, I'm [Parithosh Poojary](#).
+## Hi 👋 I am Parithosh! 
+#### I am a SDE at [Mphasis](https://www.mphasis.com/home.html). 
 
-#### I love learning new stuff and building things.
+- ##### 🌐 Visit my [porfolio website](https://parithoshpoojary.github.io/) for complete background and contact.
+- ##### 👋 My personal [blog]()
+- ##### ✍️ [Medium Profile]()
 
-
-
-<!--
-**parithoshpoojary/parithoshpoojary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=parithoshpoojary&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=parithoshpoojary&theme=dark&hide_border=true" width = 400>
+</p>
