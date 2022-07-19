@@ -3,7 +3,7 @@
 ## Hi 👋 I am Parithosh! 
 #### I am a SDE at [Mphasis](https://www.mphasis.com/home.html). 
 
-- ##### 🌐 Visit my [porfolio website](https://parithoshpoojary.github.io/) for complete background and contact.
+- ##### 🌐 Visit my [porfolio website](https://parithoshpoojary.netlify.app/) for complete background and contact.
 - ##### 👋 My personal [blog]()
 - ##### ✍️ [Medium Profile]()
 
