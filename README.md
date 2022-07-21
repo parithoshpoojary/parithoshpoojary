@@ -1,11 +1,9 @@
 <a href="https://twitter.com/thePPoojary" target="_blank" rel="nofollow"><img align="right" alt="Parithosh's Twitter" width="22px" src="https://ico.vercel.app/twitter/ffffff" /></a><a href="https://www.linkedin.com/in/parithoshpoojary/" target="_blank" rel="nofollow"><img align="right" alt="Parithosh's Linkdein" width="22px" src="https://ico.vercel.app/linkedin/ffffff" /></a>
 
 ## Hi 👋 I am Parithosh! 
-#### I am a SDE at [Mphasis](https://www.mphasis.com/home.html). 
+#### I am a SDE at **Mphasis**. 
 
 - ##### 🌐 Visit my [porfolio website](https://parithoshpoojary.netlify.app/) for complete background and contact.
-- ##### 👋 My personal [blog]()
-- ##### ✍️ [Medium Profile]()
 
 ---
 <p align = "center">
