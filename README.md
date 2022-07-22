@@ -3,7 +3,7 @@
 ## Hi 👋 I am Parithosh! 
 #### I am a SDE at **Mphasis**. 
 
-- ##### 🌐 Visit my [porfolio website](https://parithoshpoojary.netlify.app/) for complete background and contact.
+- ##### 🌐 Visit my [porfolio website](https://udcons.netlify.app) for complete background and contact.
 
 ---
 <p align = "center">
