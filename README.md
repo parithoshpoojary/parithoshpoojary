@@ -1,7 +1,7 @@
 ## Hi 👋 I am Parithosh! 
 #### I am a SDE at **Mphasis**. 
 
-##### Visit my 🌐 [porfolio website](https://parithoshpoojary-portfolio.vercel.app/home) for complete background and contact.
+##### Visit my <a href="https://parithoshpoojary-portfolio.vercel.app/home" target="_blank" rel="noopener noreferrer">🌐 porfolio website</a> for complete background and contact.
 
 ---
 <p align = "center">
