@@ -4,7 +4,7 @@ This is the place where I develop stuff and break things :rofl:
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Docker and Kubernetes
 
-### ✨&nbsp; About Me
+#### ✨&nbsp; About Me
 
 I am a Software Developer with 2+ years of experience in developing enterprise applications.
 
@@ -17,10 +17,13 @@ You can read more about me and the projects I'm working on at my website: <a hre
 - [“Event Streaming Showdown: Kafka vs. Azure Event Hub — A Comprehensive Comparison” ⚡](https://dev.to/parithoshpoojary/event-streaming-showdown-kafka-vs-azure-event-hub-a-comprehensive-comparison-dp5)
 <!-- BLOG-POST-LIST:END -->
 
-<p align = "center">
+</br>
+
+<p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api?username=parithoshpoojary&show_icons=true&theme=bear" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=parithoshpoojary&theme=dark&hide_border=true" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=parithoshpoojary&theme=dark&hide_border=true" width = 430>
 </p>
+
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
