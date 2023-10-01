@@ -13,8 +13,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Pull in medium posts
+      - name: Pull in medium/dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://medium.com/feed/@parithoshpoojary21"
+          feed_list: "https://medium.com/feed/@parithoshpoojary21,https://dev.to/feed/parithoshpoojary"
           max_post_count: 3
