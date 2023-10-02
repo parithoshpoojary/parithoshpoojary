@@ -20,7 +20,7 @@ You can read more about me and the projects I'm working on at my website: <a hre
 </br>
 
 <p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api?username=parithoshpoojary&show_icons=true&theme=bear" width = 400>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src = "https://github-readme-stats.vercel.app/api?username=parithoshpoojary&show_icons=true&theme=bear" width = 400>&nbsp;&nbsp;&nbsp;
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=parithoshpoojary&theme=dark&hide_border=true" width = 430>
 </p>
 
