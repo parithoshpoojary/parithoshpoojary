@@ -13,7 +13,7 @@ You can read more about me and the projects I'm working on at my website: <a hre
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Master Microservices: Spring Boot &amp; Cloud Mastery ☁️](https://dev.to/parithoshpoojary/master-microservices-spring-boot-cloud-mastery-5clc)
+- [Choosing Between Message Queues and Event Streams](https://dev.to/parithoshpoojary/master-microservices-spring-boot-cloud-mastery-5clc)
 - [Master Microservices: Spring Boot &amp; Cloud Mastery ☁️](https://dev.to/parithoshpoojary/master-microservices-spring-boot-cloud-mastery-3l4m)
 - [JMS vs. ActiveMQ Unleashed: Messaging Insights💬](https://dev.to/parithoshpoojary/jms-vs-activemq-unleashed-messaging-insights-46j5)
 <!-- BLOG-POST-LIST:END -->
