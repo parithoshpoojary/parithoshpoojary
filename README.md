@@ -16,6 +16,8 @@ You can read more about me and the projects I'm working on at my website: <a hre
 - [Choosing Between Message Queues and Event Streams](https://dev.to/parithoshpoojary/master-microservices-spring-boot-cloud-mastery-5clc)
 - [Master Microservices: Spring Boot &amp; Cloud Mastery ☁️](https://dev.to/parithoshpoojary/master-microservices-spring-boot-cloud-mastery-3l4m)
 - [JMS vs. ActiveMQ Unleashed: Messaging Insights💬](https://dev.to/parithoshpoojary/jms-vs-activemq-unleashed-messaging-insights-46j5)
+- [Docker and Kubernetes: The Dynamic Duo of Software Innovation 🐳](https://dev.to/parithoshpoojary/the-puzzles-of-docker-and-kubernetes-4o2j)
+- [🚀 Redis: The Rocket Fuel for Your Caching Needs!](https://dev.to/parithoshpoojary/redis-the-rocket-fuel-for-your-caching-needs-3312)
 <!-- BLOG-POST-LIST:END -->
 
 </br>
