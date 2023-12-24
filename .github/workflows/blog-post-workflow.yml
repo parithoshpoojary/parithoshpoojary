@@ -17,4 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@parithoshpoojary21,https://dev.to/feed/parithoshpoojary"
-          max_post_count: 3
+          max_post_count: 5
