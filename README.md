@@ -33,8 +33,6 @@ This is the place where I develop stuff and break things :rofl:
     <img src="https://www.vectorlogo.zone/logos/datastax/datastax-icon.svg" alt="datastax" width="40" height="40" style="color:white"/> &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="40"/> &nbsp;
-  </p>
-  <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="40"/> &nbsp;    
     <!--CI/CD tools-->
@@ -55,8 +53,6 @@ This is the place where I develop stuff and break things :rofl:
     <!--Logging & Monitoring tools-->
     <img src="https://www.vectorlogo.zone/logos/splunk/splunk-ar21.svg" alt="splunk" width="70" height="40"/> &nbsp;
     <img src="https://www.vectorlogo.zone/logos/appdynamics/appdynamics-ar21.svg" alt="AppDynamics" width="40" height="40"/> &nbsp;
-  </p>
-  <p>
     <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> &nbsp;
     <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="35"/> &nbsp;
     <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="35"/> &nbsp;
